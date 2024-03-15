@@ -1,5 +1,3 @@
-#### 🦈 SupplyShark immediately notifies you of any supply chain security vulnerabilities in your code and projects before hackers can exploit them.
-
 🚀 [Get started securing your supply chain!](https://www.supplyshark.io) 
 
 🚨 Over 60% of organizations currently have a supply chain security vulnerability in their code.
