@@ -1,3 +1,6 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/supplysharkio.svg?style=social)](https://twitter.com/supplysharkio)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKFnTm0W3p5IvFO8CvJ9xGw)
+
 🚀 [Get started securing your supply chain!](https://www.supplyshark.io) 
 
 🚨 Over 60% of organizations currently have a supply chain security vulnerability in their code.
